@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Hello World Lynda</string>
+    <string name="create_sample_data">Create Sample Data</string>
+    <string name="delete_all">Delete All</string>
+    <string name="all_deleted">All Notes Deleted</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">Cancel</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
 </resources>
